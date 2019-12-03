@@ -21,3 +21,5 @@ def fourth_challenge
 #puts "ok"
 
 end
+
+puts "ok"
