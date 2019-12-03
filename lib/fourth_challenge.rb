@@ -20,6 +20,6 @@ def fourth_challenge
    }
 }
 
-puts epic_tragedy[:montague][:hero][:status]
+puts epic_tragedy[:montague][:hero]
 
 end
